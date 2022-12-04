@@ -1,0 +1,7 @@
+# ignore service key
+firebaseServiceKey*.json
+
+
+# jupyter notebook files
+.ipynb_checkpoints
+__pycache__

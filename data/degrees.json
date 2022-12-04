@@ -1,0 +1,2600 @@
+{
+    "15141": {
+        "electiveOrAlliedNum": 0,
+        "Major": true,
+        "Name": "Biochemistry",
+        "credits": 9.25,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "CHEM 120",
+            "CHEM 130",
+            "CHEM 170",
+            "CHEM 240",
+            "CHEM 260",
+            "CHEM 310",
+            "CHEM 343",
+            "CHEM 440"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "CHEM 342",
+            "BIO 250",
+            "BIO 314",
+            "BIO 320",
+            "BIO 325",
+            "BIO 335",
+            "BIO 361",
+            "BIO 382",
+            "BIO 415"
+        ]
+    },
+    "12386": {
+        "electiveOrAllied": [
+            "CHEM 310",
+            "CHEM 343",
+            "CHEM 440"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": false,
+        "Name": "Biochemistry",
+        "credits": 5.25,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "CHEM 120",
+            "CHEM 170",
+            "CHEM 240",
+            "CHEM 260"
+        ],
+        "highLvlCourses": [
+            "BIO 314",
+            "BIO 315",
+            "BIO 320",
+            "BIO 325",
+            "BIO 335",
+            "BIO 361",
+            "BIO 415"
+        ]
+    },
+    "14151": {
+        "electiveOrAllied": [],
+        "Major": false,
+        "Name": "Chemistry",
+        "credits": 5.25,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "CHEM 170"
+        ],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "45223": {
+        "electiveOrAllied": [
+            "PHYS 320",
+            "PHYS 340",
+            "PHYS 350",
+            "PHYS 360",
+            "PHYS 370",
+            "PHYS 380"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Physics",
+        "credits": 9.5,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "PHYS 120",
+            "PHYS 130",
+            "PHYS 210",
+            "PHYS 220",
+            "PHYS 280",
+            "PHYS 480"
+        ],
+        "highLvlCourses": [
+            "PHYS 410",
+            "PHYS 420",
+            "PHYS 430",
+            "PHYS 440"
+        ]
+    },
+    "13261": {
+        "electiveOrAllied": [
+            "PHYS 103",
+            "PHYS 203",
+            "PHYS 310",
+            "PHYS 320",
+            "PHYS 330"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Astronomy",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "PHYS 104",
+            "PHYS 300"
+        ],
+        "highLvlCourses": []
+    },
+    "85941": {
+        "Major": false,
+        "Name": "Physics",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "PHYS 120",
+            "PHYS 130",
+            "PHYS 210",
+            "PHYS 220"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "PHYS 320",
+            "PHYS 340",
+            "PHYS 350",
+            "PHYS 360",
+            "PHYS 370",
+            "PHYS 380",
+            "PHYS 410",
+            "PHYS 420",
+            "PHYS 430",
+            "PHYS 440"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "22503": {
+        "Major": true,
+        "Name": "Art History",
+        "credits": 11,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "ARTH 131",
+            "ARTH 132",
+            "ARTH 231",
+            "ARTH 232",
+            "ARTH 233",
+            "ARTH 282",
+            "ARTH 163",
+            "PHIL 230",
+            "ARTH 494"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "78695": {
+        "electiveOrAllied": [
+            "ARTS 256",
+            "ARTS 262",
+            "ARTS 271"
+        ],
+        "Major": true,
+        "Name": "Studio Art",
+        "credits": 11,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ARTS 152",
+            "ARTS 160",
+            "ARTS 175",
+            "ARTH 131",
+            "ARTH 226",
+            "ARTS 491",
+            "ARTS 492"
+        ],
+        "highLvlCourses": [
+            "ARTS 356",
+            "ARTS 357",
+            "ARTS 362",
+            "ARTS 364",
+            "ARTS 366",
+            "ARTS 371",
+            "ARTS 372",
+            "ARTS 373",
+            "ARTS 374",
+            "ARTS 376",
+            "ARTS 377",
+            "ARTS 378",
+            "ARTS 379",
+            "ARTS 398"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "47962": {
+        "electiveOrAllied": [],
+        "Major": false,
+        "Name": "Art History",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ARTH 131",
+            "ARTH 231",
+            "ARTH 232",
+            "ARTS 160"
+        ],
+        "highLvlCourses": [
+            "ARTH 331",
+            "ARTH 332",
+            "ARTH 333",
+            "ARTH 334",
+            "ARTH 390"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "56133": {
+        "electiveOrAllied": [
+            "ARTH 226",
+            "ARTH 231",
+            "ARTH 233",
+            "ARTH 234",
+            "ARTH 250",
+            "ARTH 331",
+            "ARTH 332",
+            "ARTH 333",
+            "ARTH 334",
+            "ARTH 360"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Museum Studies",
+        "credits": 6,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ARTH 131",
+            "MSST 110",
+            "MSST 493",
+            "PHIL 230"
+        ],
+        "highLvlCourses": []
+    },
+    "92607": {
+        "Major": false,
+        "Name": "Studio Art",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ARTS 152",
+            "ARTS 256",
+            "ARTS 262",
+            "ARTH 131"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "ARTS 356",
+            "ARTS 357",
+            "ARTS 362",
+            "ARTS 364",
+            "ARTS 366",
+            "ARTS 371",
+            "ARTS 372",
+            "ARTS 373",
+            "ARTS 374",
+            "ARTS 376",
+            "ARTS 377",
+            "ARTS 378",
+            "ARTS 379",
+            "ARTS 398"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "22756": {
+        "electiveOrAllied": [
+            "ANTH 251",
+            "ANTH 273",
+            "ANTH 279",
+            "ANTH 366",
+            "HIST 115",
+            "HIST 116",
+            "HIST 206",
+            "HIST 207",
+            "HIST 382",
+            "HIST 385",
+            "LACS 100",
+            "LACS 290",
+            "LACS 390",
+            "WLIT 205",
+            "WLIT 215",
+            "WLIT 315"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Hispanic Studies",
+        "credits": 10,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "HISP 131",
+            "HISP 132",
+            "HISP 231",
+            "HISP 232",
+            "HISP 330",
+            "HISP 335",
+            "HISP 430",
+            "HISP 456"
+        ],
+        "highLvlCourses": []
+    },
+    "85195": {
+        "Major": false,
+        "Name": "Hispanic Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "HISP 131",
+            "HISP 132",
+            "HISP 231",
+            "HISP 232",
+            "HISP 330"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "20916": {
+        "electiveOrAllied": [
+            "ARTH 131",
+            "ARTH 132",
+            "CLST 154",
+            "CLST 256",
+            "CLST 264",
+            "CLST 310",
+            "EDUC 420",
+            "ENG 261",
+            "HIST 111",
+            "HIST 112",
+            "HIST 342",
+            "MUS 191",
+            "MUS 390"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Italian Cultural Studies",
+        "credits": 8,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "ITAL 171",
+            "ITAL 172",
+            "ITAL 271",
+            "ITAL 272"
+        ],
+        "highLvlCourses": [
+            "ITAL 371",
+            "ITAL 372",
+            "ITAL 375",
+            "ITAL 376",
+            "ITAL 471",
+            "ITAL 472",
+            "ITAL 470"
+        ]
+    },
+    "64387": {
+        "electiveOrAllied": [
+            "ARTH 131",
+            "ARTH 132",
+            "CLST 154",
+            "CLST 256",
+            "CLST 264",
+            "CLST 310",
+            "EDUC 420",
+            "ENG 261",
+            "HIST 111",
+            "HIST 112",
+            "HIST 342",
+            "MUS 191",
+            "MUS 390"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": false,
+        "Name": "Italian Cultural Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ITAL 171",
+            "ITAL 172",
+            "ITAL 271"
+        ],
+        "highLvlCourses": [
+            "ITAL 372",
+            "ITAL 375",
+            "ITAL 376"
+        ]
+    },
+    "35855": {
+        "electiveOrAllied": [
+            "ARTS 160",
+            "ARTS 165",
+            "ARTS 298",
+            "BIO 275",
+            "BIO 325",
+            "COMM 235",
+            "COMM 236",
+            "CSC 296",
+            "ECON 350",
+            "GEOS 205",
+            "GRMN 115",
+            "HIST 285",
+            "MATH 141",
+            "MATH 247",
+            "MATH 270",
+            "MATH 323",
+            "MATH 367",
+            "MATH 382",
+            "MATH 422",
+            "PHIL 251",
+            "PHIL 360",
+            "PHIL 351",
+            "PSY 214",
+            "PHYS 240",
+            "PSY 348",
+            "WGSS 290",
+            "WGSS 370"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Computer Science",
+        "credits": 11.5,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "CSC 121",
+            "CSC 122",
+            "CSC 231",
+            "CSC 232",
+            "CSC 233",
+            "CSC 240",
+            "CSC 498",
+            "MATH 123"
+        ],
+        "highLvlCourses": [
+            "CSC 322",
+            "CSC 330",
+            "CSC 340",
+            "CSC 350",
+            "CSC 360",
+            "CSC 370",
+            "CSC 424",
+            "CSC 426",
+            "CSC 428",
+            "CSC 430",
+            "CSC 440",
+            "CSC 480"
+        ]
+    },
+    "38765": {
+        "Major": false,
+        "Name": "Computer Science",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "CSC 121",
+            "CSC 122",
+            "CSC 231",
+            "CSC 232"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "CSC 322",
+            "CSC 330",
+            "CSC 340",
+            "CSC 350",
+            "CSC 360",
+            "CSC 370",
+            "CSC 424",
+            "CSC 426",
+            "CSC 428",
+            "CSC 430",
+            "CSC 440",
+            "CSC 480"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "88125": {
+        "electiveOrAllied": [],
+        "Major": false,
+        "Name": "Data Science",
+        "credits": 5.0,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "MATH 141",
+            "CSC 370",
+            "MATH 341",
+            "CSC 121",
+            "CSC 122"
+        ],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "66981": {
+        "electiveOrAllied": [
+            "ANTH 151",
+            "ANTH 253",
+            "ANTH 255",
+            "ANTH 256",
+            "ANTH 290",
+            "COMM 223",
+            "COMM 224",
+            "COMM 227",
+            "ECON 250",
+            "ECON 262",
+            "HIST 109",
+            "HIST 110",
+            "HIST 206",
+            "HIST 256",
+            "HIST 257",
+            "HIST 263",
+            "HIST 264",
+            "HIST 265",
+            "HIST 275",
+            "PHIL 230",
+            "PHIL 233",
+            "PHIL 234",
+            "PHIL 342",
+            "POLS 130",
+            "POLS 150",
+            "POLS 170",
+            "POLS 235",
+            "POLS 390",
+            "POLS 450",
+            "PSY 246",
+            "PSY 346",
+            "PSY 352",
+            "REL 132",
+            "REL 252",
+            "REL 263",
+            "REL 269",
+            "SOC 210",
+            "SOC 222",
+            "SOC 225",
+            "SOC 237",
+            "SOC 249"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Peace and Conflict Studies",
+        "credits": 11.0,
+        "highLvlCoursesNum": 4,
+        "coreCourses": [
+            "PACS 100",
+            "PACS 295",
+            "PACS 430"
+        ],
+        "highLvlCourses": [
+            "ANTH 390",
+            "COMM 327",
+            "ECON 320",
+            "EDUC 300",
+            "EDUC 320",
+            "EDUC 362",
+            "HIS 351",
+            "HIST 355",
+            "HIST 358",
+            "HIST 364",
+            "HIST 367",
+            "HIST 368",
+            "HIST 385",
+            "POLS 324",
+            "POLS 335",
+            "POLS 352",
+            "POLS 360",
+            "POLS 370",
+            "POLS 374",
+            "POLS 382",
+            "POLS 384",
+            "SOC 303",
+            "SOC 320",
+            "SOC 323",
+            "SOC 334",
+            "SOC 337"
+        ]
+    },
+    "79215": {
+        "electiveOrAllied": [
+            "ANTH 151",
+            "ANTH 253",
+            "ANTH 255",
+            "ANTH 256",
+            "ANTH 290",
+            "COMM 223",
+            "COMM 224",
+            "COMM 227",
+            "ECON 250",
+            "ECON 262",
+            "HIST 109",
+            "HIST 110",
+            "HIST 206",
+            "HIST 256",
+            "HIST 257",
+            "HIST 263",
+            "HIST 264",
+            "HIST 265",
+            "HIST 275",
+            "PHIL 230",
+            "PHIL 233",
+            "PHIL 234",
+            "PHIL 342",
+            "POLS 130",
+            "POLS 150",
+            "POLS 170",
+            "POLS 235",
+            "POLS 390",
+            "POLS 450",
+            "PSY 246",
+            "PSY 346",
+            "PSY 352",
+            "REL 132",
+            "REL 252",
+            "REL 263",
+            "REL 269",
+            "SOC 210",
+            "SOC 222",
+            "SOC 225",
+            "SOC 237",
+            "SOC 249"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Peace and Conflict Studies",
+        "credits": 5.0,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "PACS 100"
+        ],
+        "highLvlCourses": [
+            "ANTH 390",
+            "COMM 327",
+            "ECON 320",
+            "EDUC 300",
+            "EDUC 320",
+            "EDUC 362",
+            "HIS 351",
+            "HIST 355",
+            "HIST 358",
+            "HIST 364",
+            "HIST 367",
+            "HIST 368",
+            "HIST 385",
+            "POLS 324",
+            "POLS 335",
+            "POLS 352",
+            "POLS 360",
+            "POLS 370",
+            "POLS 374",
+            "POLS 382",
+            "POLS 384",
+            "SOC 303",
+            "SOC 320",
+            "SOC 323",
+            "SOC 334",
+            "SOC 337"
+        ]
+    },
+    "58349": {
+        "electiveOrAllied": [
+            "ECON 410",
+            "ECON 415",
+            "ECON 420",
+            "ECON 430",
+            "ECON 440",
+            "ECON 450",
+            "ECON 465",
+            "ECON 470",
+            "ECON 490"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Economics",
+        "credits": 10,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ECON 100",
+            "ECON 294",
+            "ECON 295",
+            "ECON 350",
+            "ECON 480",
+            "MATH 151"
+        ],
+        "highLvlCourses": [
+            "ECON 315",
+            "ECON 320",
+            "ECON 330",
+            "ECON 342",
+            "ECON 360",
+            "ECON 375",
+            "ECON 393",
+            "ECON 398"
+        ]
+    },
+    "31053": {
+        "Major": false,
+        "Name": "Accounting and Finance for Decision Making",
+        "credits": 7,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ECON 100",
+            "ECON 220",
+            "ECON 280",
+            "ECON 350",
+            "ECON 360",
+            "ECON 393"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "ECON 398",
+            "ECON 470",
+            "ECON 410",
+            "ECON 415",
+            "ECON 420",
+            "ECON 430",
+            "ECON 440",
+            "ECON 450",
+            "ECON 465",
+            "ECON 490"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "34851": {
+        "Major": false,
+        "Name": "Business Administration",
+        "credits": 6,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ECON 100",
+            "ECON 220",
+            "ECON 280",
+            "ECON 398",
+            "COMM 350",
+            "PHIL 230"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "ECON 398",
+            "ECON 470",
+            "ECON 410",
+            "ECON 415",
+            "ECON 420",
+            "ECON 430",
+            "ECON 440",
+            "ECON 450",
+            "ECON 465",
+            "ECON 490"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "67464": {
+        "electiveOrAllied": [
+            "ECON 140",
+            "ECON 235",
+            "ECON 250",
+            "ECON 262",
+            "ECON 290"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": false,
+        "Name": "Economics",
+        "credits": 6,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "ECON 100",
+            "ECON 294",
+            "ECON 295",
+            "MATH 151"
+        ],
+        "highLvlCourses": [
+            "ECON 310",
+            "ECON 315",
+            "ECON 320",
+            "ECON 342",
+            "ECON 350",
+            "ECON 360",
+            "ECON 375",
+            "ECON 390",
+            "ECON 410",
+            "ECON 420",
+            "ECON 430",
+            "ECON 440",
+            "ECON 450",
+            "ECON 470",
+            "ECON 490"
+        ]
+    },
+    "73305": {
+        "electiveOrAllied": [
+            "CLST 256",
+            "CLST 258",
+            "CLST 264",
+            "CLST 265",
+            "CLST 266",
+            "CLST 267",
+            "CLST 273",
+            "CLST 274",
+            "CLST 281",
+            "CLST 283",
+            "GRK 205",
+            "GRK 211",
+            "LAT 223",
+            "LAT 224"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Classical Civilization",
+        "credits": 9,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "GRK 101",
+            "GRK 102",
+            "CLST 120",
+            "CLST 267",
+            "CLST 454"
+        ],
+        "highLvlCourses": [
+            "CLST 310",
+            "CLST 361",
+            "CLST 300"
+        ]
+    },
+    "36282": {
+        "electiveOrAllied": [
+            "CLST 256",
+            "CLST 258",
+            "CLST 264",
+            "CLST 265",
+            "CLST 266",
+            "CLST 267",
+            "CLST 273",
+            "CLST 274",
+            "CLST 281",
+            "CLST 283",
+            "LAT 223",
+            "LAT 224"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Greek",
+        "credits": 9,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "GRK 101",
+            "GRK 102",
+            "GRK 205",
+            "GRK 211",
+            "GRK 451",
+            "GRK 452",
+            "CLST 263",
+            "CLST 454"
+        ],
+        "highLvlCourses": []
+    },
+    "35785": {
+        "electiveOrAllied": [
+            "CLST 256",
+            "CLST 258",
+            "CLST 264",
+            "CLST 265",
+            "CLST 266",
+            "CLST 267",
+            "CLST 273",
+            "CLST 274",
+            "CLST 281",
+            "CLST 283",
+            "GRK 205",
+            "GRK 211"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Latin",
+        "credits": 9,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "LAT 123",
+            "LAT 124",
+            "LAT 223",
+            "LAT 224",
+            "CLST 154",
+            "CLST 454"
+        ],
+        "highLvlCourses": [
+            "LAT 331",
+            "LAT 332",
+            "LAT 341",
+            "LAT 390",
+            "LAT 431",
+            "LAT 432"
+        ]
+    },
+    "75615": {
+        "Major": false,
+        "Name": "Greek",
+        "credits": 4,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "GRK 102",
+            "GRK 205",
+            "GRK 211",
+            "GRK 451"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "53458": {
+        "Major": false,
+        "Name": "Latin",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "LAT 123",
+            "LAT 124",
+            "LAT 223"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "LAT 331",
+            "LAT 332",
+            "LAT 341",
+            "LAT 390",
+            "LAT 431",
+            "LAT 432"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "48202": {
+        "electiveOrAllied": [
+            "ARTH 133",
+            "ARTH 135",
+            "ARTH 234",
+            "ARTH 236",
+            "ARTH 334",
+            "ASIA 140",
+            "ASIA 250",
+            "ASIA 251",
+            "CHIN 261",
+            "CHIN 262",
+            "ECON 330",
+            "HIST 252",
+            "HIST 253",
+            "HIST 254",
+            "HIST 255",
+            "HIST 351",
+            "HIST 353",
+            "POLS 253",
+            "REL 130",
+            "REL 258",
+            "REL 259"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Chinese Studies",
+        "credits": 10,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "CHIN 161",
+            "CHIN 162",
+            "HIST 253",
+            "ASIA 480"
+        ],
+        "highLvlCourses": [
+            "CHIN 361",
+            "CHIN 362",
+            "CHIN 461"
+        ]
+    },
+    "46150": {
+        "electiveOrAllied": [
+            "ARTH 133",
+            "ARTH 135",
+            "ARTH 234",
+            "ARTH 236",
+            "ARTH 334",
+            "ASIA 140",
+            "ASIA 250",
+            "ASIA 251",
+            "CHIN 261",
+            "CHIN 262",
+            "ECON 330",
+            "HIST 252",
+            "HIST 253",
+            "HIST 254",
+            "HIST 255",
+            "HIST 351",
+            "HIST 353",
+            "POLS 253",
+            "REL 130",
+            "REL 258",
+            "REL 259"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Chinese Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "CHIN 161",
+            "CHIN 162"
+        ],
+        "highLvlCourses": [
+            "CHIN 361",
+            "CHIN 362",
+            "CHIN 461"
+        ]
+    },
+    "19531": {
+        "electiveOrAllied": [
+            "ARTH 231",
+            "ARTH 232",
+            "ARTH 233",
+            "ARTH 234",
+            "ARTH 331",
+            "ARTH 332",
+            "ARTH 333",
+            "ARTH 334",
+            "ASIA 250",
+            "ASIA 281",
+            "ASIA 282",
+            "ASIA 290",
+            "CHIN 261",
+            "CHIN 262",
+            "CHIN 361",
+            "CHIN 362",
+            "ENG 265",
+            "HIST 252",
+            "HIST 351",
+            "HIST 353",
+            "HIST 491",
+            "JAPN 251",
+            "JAPN 252",
+            "JAPN 351",
+            "JAPN 352",
+            "JAPN 451",
+            "PHIL 210",
+            "POLS 253",
+            "REL 253",
+            "REL 257",
+            "REL 258",
+            "REL 357",
+            "REL 359"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Asian Studies",
+        "credits": 10,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "ASIA 390",
+            "ASIA 470",
+            "ARTH 133",
+            "HIST 253",
+            "POLS 253",
+            "ASIA 480"
+        ],
+        "highLvlCourses": []
+    },
+    "10244": {
+        "Major": false,
+        "Name": "Chinese",
+        "credits": 5,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "CHIN 261",
+            "CHIN 262",
+            "CHIN 361",
+            "CHIN 362",
+            "CHIN 269"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "28657": {
+        "Major": false,
+        "Name": "Japanese",
+        "credits": 5,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "JAPN 251",
+            "JAPN 252",
+            "JAPN 351",
+            "JAPN 352",
+            "JAPN 352"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "12541": {
+        "electiveOrAllied": [
+            "ANTH 151",
+            "ANTH 255",
+            "ANTH 257",
+            "BIO 102",
+            "BIO 250",
+            "CHEM 240",
+            "HIST 285",
+            "PHIL 230",
+            "PHIL 232",
+            "PHIL 234",
+            "POLS 170",
+            "POLS 235",
+            "POLS 253",
+            "PSY 100",
+            "PSY 214",
+            "PSY 252",
+            "PSY 260",
+            "SOC 100",
+            "SOC 210",
+            "SOC 242"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Global Health",
+        "credits": 10.5,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "GLH 101",
+            "GLH 301",
+            "GLH 401"
+        ],
+        "highLvlCourses": [
+            "GLH 395",
+            "ANTH 355",
+            "ANTH 370",
+            "BIO 382",
+            "CHEM 343",
+            "ECON 465",
+            "PHIL 360",
+            "POLS 352",
+            "POLS 360",
+            "POLS 382",
+            "POLS 384",
+            "PSY 343",
+            "SOC 329",
+            "SOC 342"
+        ]
+    },
+    "86063": {
+        "electiveOrAllied": [
+            "KINS 230",
+            "KINS 260",
+            "KINS 350",
+            "KINS 354",
+            "KINS 410",
+            "KINS 420"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Kinesiology",
+        "credits": 12,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "KINS 100",
+            "KINS 255",
+            "KINS 256",
+            "KINS 309",
+            "KINS 353",
+            "KINS 450",
+            "KINS 451"
+        ],
+        "highLvlCourses": []
+    },
+    "84372": {
+        "Major": false,
+        "Name": "Kinesiology",
+        "credits": 5,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "KINS 100",
+            "KINS 230",
+            "KINS 254",
+            "KINS 309",
+            "KINS 353"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "27230": {
+        "electiveOrAllied": [
+            "GEOS 105",
+            "GEOS 107",
+            "GEOS 117",
+            "GEOS 125",
+            "GEOS 190",
+            "GEOS 205",
+            "GEOS 210",
+            "GEOS 220",
+            "GEOS 230",
+            "UNIV 170"
+        ],
+        "electiveOrAlliedNum": 3,
+        "Major": true,
+        "Name": "Earth Science",
+        "credits": 11.25,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GEOS 110",
+            "GEOS 280",
+            "GEOS 310",
+            "GEOS 350",
+            "GEOS 450",
+            "CHEM 130",
+            "CHEM 170",
+            "PHYS 104"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 320",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "57035": {
+        "electiveOrAllied": [
+            "BIO 102",
+            "BIO 342",
+            "CHEM 120",
+            "CHEM 130",
+            "PHIL 232",
+            "POLS 265",
+            "UNIV 170"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Environmental Geoscience",
+        "credits": 14.0,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "GEOS 110",
+            "GEOS 220",
+            "GEOS 280",
+            "GEOS 310",
+            "GEOS 350",
+            "GEOS 450",
+            "GEOS 125",
+            "GEOS 230"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 320",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "50590": {
+        "electiveOrAllied": [
+            "GEOS 205",
+            "GEOS 220",
+            "GEOS 230"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Geology",
+        "credits": 11.25,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GEOS 110",
+            "GEOS 280",
+            "GEOS 310",
+            "GEOS 350",
+            "GEOS 450",
+            "GEOS 210",
+            "GEOS 320",
+            "CHEM 130",
+            "CHEM 170"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "19775": {
+        "electiveOrAllied": [
+            "GEOS 105",
+            "GEOS 107",
+            "GEOS 117",
+            "GEOS 125",
+            "GEOS 190",
+            "GEOS 205",
+            "GEOS 210",
+            "GEOS 220",
+            "GEOS 230"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Earth Science",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GEOS 110",
+            "PHYS 103"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "71013": {
+        "electiveOrAllied": [
+            "BIO 102",
+            "CHEM 120",
+            "CHEM 130",
+            "PHIL 232",
+            "POLS 265",
+            "UNIV 170"
+        ],
+        "electiveOrAlliedNum": 3,
+        "Major": false,
+        "Name": "Environmental Geoscience",
+        "credits": 7,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GEOS 110",
+            "GEOS 125",
+            "GEOS 230"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "25799": {
+        "electiveOrAllied": [
+            "GEOS 105",
+            "GEOS 110",
+            "GEOS 107",
+            "GEOS 117",
+            "GEOS 125",
+            "GEOS 190",
+            "GEOS 205",
+            "GEOS 210",
+            "GEOS 220",
+            "GEOS 230"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Geography",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GEOS 115"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "24265": {
+        "electiveOrAllied": [
+            "GEOS 105",
+            "GEOS 110",
+            "GEOS 107",
+            "GEOS 117",
+            "GEOS 125",
+            "GEOS 190",
+            "GEOS 205",
+            "GEOS 210",
+            "GEOS 220",
+            "GEOS 230"
+        ],
+        "electiveOrAlliedNum": 3,
+        "Major": false,
+        "Name": "Geology",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GEOS 110"
+        ],
+        "highLvlCourses": [
+            "GEOS 315",
+            "GEOS 330",
+            "GEOS 370",
+            "GEOS 380",
+            "GEOS 470",
+            "GEOS 480",
+            "GEOS 490"
+        ]
+    },
+    "86958": {
+        "electiveOrAllied": [
+            "PHIL 230",
+            "PHIL 232",
+            "PHIL 233",
+            "PHIL 234",
+            "PHIL 240",
+            "PHIL 242"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Philosophy",
+        "credits": 9,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "PHIL 212",
+            "PHIL 213",
+            "PHIL 251",
+            "PHIL 490",
+            "PHIL 419"
+        ],
+        "highLvlCourses": [
+            "PHIL 340",
+            "PHIL 342",
+            "PHIL 351",
+            "PHIL 353",
+            "PHIL 360",
+            "PHIL 363",
+            "PHIL 364",
+            "PHIL 469"
+        ]
+    },
+    "72222": {
+        "electiveOrAllied": [
+            "PHIL 212",
+            "PHIL 213",
+            "PHIL 230",
+            "PHIL 232",
+            "PHIL 233",
+            "PHIL 234",
+            "PHIL 240",
+            "PHIL 242",
+            "PHIL 251"
+        ],
+        "electiveOrAlliedNum": 3,
+        "Major": false,
+        "Name": "Philosophy",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [],
+        "highLvlCourses": [
+            "PHIL 340",
+            "PHIL 342",
+            "PHIL 351",
+            "PHIL 353",
+            "PHIL 360",
+            "PHIL 363",
+            "PHIL 364",
+            "PHIL 469",
+            "PHIL 419"
+        ]
+    },
+    "26395": {
+        "Major": true,
+        "Name": "German",
+        "credits": 10,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "GRMN 111",
+            "GRMN 112",
+            "GRMN 211",
+            "GRMN 212",
+            "GRMN 304",
+            "GRMN 307",
+            "GRMN 415"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "GRMN 306",
+            "GRMN 314",
+            "GRMN 412",
+            "GRMN 447",
+            "GRMN 448"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "47335": {
+        "electiveOrAllied": [
+            "ART 225",
+            "ART 275",
+            "ENG 261",
+            "GRMN 115",
+            "GRMN 116",
+            "GRMN 117",
+            "GRMN 118",
+            "HIST 244",
+            "HIST 245",
+            "HIST 342",
+            "MUS 265",
+            "MUS 266",
+            "PHIL 220"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "German Studies",
+        "credits": 8,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "GRMN 115",
+            "GRMN 211",
+            "GRMN 212",
+            "GRMN 448",
+            "HIST 245",
+            "GRMN 307",
+            "GRMN 306"
+        ],
+        "highLvlCourses": []
+    },
+    "26290": {
+        "Major": false,
+        "Name": "German",
+        "credits": 5,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "GRMN 211",
+            "GRMN 212"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "GRMN 304",
+            "GRMN 306",
+            "GRMN 307",
+            "GRMN 314"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "21293": {
+        "electiveOrAllied": [
+            "ART 225",
+            "ART 275",
+            "ENG 261",
+            "GRMN 115",
+            "GRMN 116",
+            "GRMN 117",
+            "GRMN 118",
+            "HIST 244",
+            "HIST 342",
+            "HIST 245",
+            "MUS 265",
+            "MUS 266",
+            "PHIL 220"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": false,
+        "Name": "German Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "GRMN 115",
+            "GRMN 211",
+            "GRMN 212"
+        ],
+        "highLvlCourses": [
+            "GRMN 304",
+            "GRMN 306",
+            "GRMN 307",
+            "GRMN 314"
+        ]
+    },
+    "25307": {
+        "electiveOrAllied": [
+            "POLS 210",
+            "POLS 220",
+            "POLS 226",
+            "POLS 235",
+            "POLS 240",
+            "POLS 253",
+            "POLS 254",
+            "POLS 265"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Political Science",
+        "credits": 9,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "POLS 110",
+            "POLS 130",
+            "POLS 150",
+            "POLS 170",
+            "POLS 318",
+            "POLS 450"
+        ],
+        "highLvlCourses": [
+            "POLS 316",
+            "POLS 323",
+            "POLS 324",
+            "POLS 330",
+            "POLS 335",
+            "POLS 341",
+            "POLS 351",
+            "POLS 352",
+            "POLS 360",
+            "POLS 365",
+            "POLS 370",
+            "POLS 382",
+            "POLS 384",
+            "POLS 390"
+        ]
+    },
+    "64606": {
+        "Major": false,
+        "Name": "Political Science",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "POLS 110",
+            "POLS 130",
+            "POLS 150",
+            "POLS 170"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "POLS 316",
+            "POLS 323",
+            "POLS 324",
+            "POLS 330",
+            "POLS 335",
+            "POLS 341",
+            "POLS 351",
+            "POLS 352",
+            "POLS 360",
+            "POLS 365",
+            "POLS 370",
+            "POLS 382",
+            "POLS 384",
+            "POLS 390"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "71550": {
+        "electiveOrAllied": [
+            "REL 141",
+            "REL 142",
+            "REL 241",
+            "REL 244",
+            "REL 245",
+            "REL 250",
+            "REL 252",
+            "REL 253",
+            "REL 257",
+            "REL 258",
+            "REL 259",
+            "REL 297",
+            "REL 285",
+            "REL 281",
+            "REL 280",
+            "REL 275",
+            "REL 269",
+            "REL 267",
+            "REL 263"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Religious Studies",
+        "credits": 9,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "REL 132",
+            "REL 258",
+            "REL 479"
+        ],
+        "highLvlCourses": [
+            "REL 320",
+            "REL 340",
+            "REL 342",
+            "REL 350",
+            "REL 352",
+            "REL 357",
+            "REL 359",
+            "REL 360",
+            "REL 370"
+        ]
+    },
+    "81851": {
+        "electiveOrAllied": [
+            "REL 141",
+            "REL 142",
+            "REL 241",
+            "REL 244",
+            "REL 245",
+            "REL 250",
+            "REL 252",
+            "REL 253",
+            "REL 257",
+            "REL 258",
+            "REL 259",
+            "REL 297",
+            "REL 285",
+            "REL 281",
+            "REL 280",
+            "REL 275",
+            "REL 269",
+            "REL 267",
+            "REL 263"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Religious Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "REL 132",
+            "REL 258"
+        ],
+        "highLvlCourses": [
+            "REL 320",
+            "REL 340",
+            "REL 342",
+            "REL 350",
+            "REL 352",
+            "REL 357",
+            "REL 359",
+            "REL 360",
+            "REL 370"
+        ]
+    },
+    "75924": {
+        "electiveOrAllied": [
+            "BIO 203",
+            "BIO 241",
+            "CHEM 240",
+            "CSC 233",
+            "KINS 254",
+            "PHIL 234",
+            "PHYS 270",
+            "PSY 232",
+            "PSY 256",
+            "PSY 280",
+            "PSY 281"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Neuroscience",
+        "credits": 11.5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "BIO 101",
+            "CHEM 120",
+            "CSC 121",
+            "PSY 100",
+            "MATH 141",
+            "BIO 382",
+            "PSY 301",
+            "NEUR 320",
+            "NEUR 341",
+            "NEUR 480"
+        ],
+        "highLvlCourses": [
+            "BIO 320",
+            "BIO 325",
+            "BIO 314",
+            "BIO 315",
+            "BIO 335",
+            "BIO 381",
+            "BIO 385",
+            "BIO 415",
+            "CHEM 343",
+            "CSC 320",
+            "CSC 330",
+            "CSC 360",
+            "KINS 350",
+            "KINS 410",
+            "NEUR 348",
+            "NEUR 349",
+            "PHIL 360",
+            "PHYS 370",
+            "PHYS 380",
+            "PSY 330",
+            "PSY 331",
+            "PSY 348",
+            "PSY 349",
+            "PSY 350",
+            "PSY 380",
+            "PSY 381",
+            "SOC 315"
+        ]
+    },
+    "95248": {
+        "Major": true,
+        "Name": "Psychology",
+        "credits": 10,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "PSY 100",
+            "PSY 214",
+            "PSY 215",
+            "PSY 301",
+            "PSY 331",
+            "PSY 290",
+            "PSY 232",
+            "PSY 493"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "PSY 305",
+            "PSY 311",
+            "PSY 343",
+            "PSY 350",
+            "PSY 352",
+            "PSY 353",
+            "PSY 360",
+            "PSY 364",
+            "PSY 370",
+            "PSY 375",
+            "PSY 380"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "66941": {
+        "electiveOrAllied": [
+            "PSY 290",
+            "PSY 281",
+            "PSY 260",
+            "PSY 261",
+            "PSY 254",
+            "PSY 252",
+            "PSY 246",
+            "PSY 232"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Psychology",
+        "credits": 5,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "PSY 100"
+        ],
+        "highLvlCourses": [
+            "PSY 214",
+            "PSY 215",
+            "PSY 305",
+            "PSY 311",
+            "PSY 343",
+            "PSY 350",
+            "PSY 352",
+            "PSY 353",
+            "PSY 360",
+            "PSY 364",
+            "PSY 370",
+            "PSY 375",
+            "PSY 380"
+        ]
+    },
+    "50492": {
+        "electiveOrAllied": [
+            "BIO 250",
+            "BIO 241",
+            "BIO 315",
+            "BIO 325",
+            "BIO 361",
+            "BIO 381",
+            "BIO 230",
+            "BIO 234",
+            "BIO 235",
+            "BIO 285",
+            "BIO 335",
+            "BIO 342",
+            "BIO 343",
+            "BIO 344",
+            "BIO 345",
+            "BIO 346"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Biology",
+        "credits": 11.5,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "BIO 101",
+            "BIO 102",
+            "BIO 450",
+            "CHEM 120",
+            "PHYS 120",
+            "BIO 314",
+            "BIO 334",
+            "BIO 348"
+        ],
+        "highLvlCourses": []
+    },
+    "27056": {
+        "electiveOrAllied": [
+            "BIO 230",
+            "BIO 285",
+            "BIO 334",
+            "BIO 335",
+            "BIO 382"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Cellular and Molecular Biology",
+        "credits": 12.5,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "BIO 101",
+            "BIO 102",
+            "CHEM 120",
+            "BIO 241",
+            "BIO 315",
+            "BIO 325",
+            "CSC 121",
+            "MATH 123",
+            "MATH 141",
+            "BIO 450"
+        ],
+        "highLvlCourses": [
+            "BIO 241",
+            "BIO 250",
+            "BIO 314",
+            "BIO 320",
+            "BIO 325",
+            "BIO 361",
+            "BIO 381",
+            "BIO 385",
+            "BIO 415",
+            "BIO 490"
+        ]
+    },
+    "97746": {
+        "electiveOrAllied": [
+            "BIO 104",
+            "BIO 105",
+            "BIO 130",
+            "BIO 156",
+            "BIO 203",
+            "BIO 230",
+            "BIO 234",
+            "BIO 235",
+            "BIO 241",
+            "BIO 250",
+            "BIO 285",
+            "BIO 295"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Biology",
+        "credits": 6,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "BIO 101",
+            "BIO 102",
+            "CHEM 120"
+        ],
+        "highLvlCourses": [
+            "BIO 314",
+            "BIO 315",
+            "BIO 320",
+            "BIO 325",
+            "BIO 334",
+            "BIO 335",
+            "BIO 342",
+            "BIO 343",
+            "BIO 344",
+            "BIO 345",
+            "BIO 346",
+            "BIO 348",
+            "BIO 361",
+            "BIO 381",
+            "BIO 382"
+        ]
+    },
+    "33729": {
+        "electiveOrAllied": [
+            "AFST 240",
+            "ENG 171",
+            "ENG 263",
+            "ENG 265",
+            "ENG 266",
+            "ENG 268",
+            "ENG 269",
+            "ENG 398"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Literature",
+        "credits": 10,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "ENG 151",
+            "ENG 251",
+            "ENG 451",
+            "ENG 365",
+            "ENG 259",
+            "ENG 368",
+            "ENG 266"
+        ],
+        "highLvlCourses": [
+            "ENG 351",
+            "ENG 359",
+            "ENG 360",
+            "ENG 361",
+            "ENG 364",
+            "ENG 367",
+            "ENG 371",
+            "ENG 372",
+            "ENG 373",
+            "ENG 374",
+            "ENG 390",
+            "ENG 391",
+            "ENG 393",
+            "ENG 395",
+            "ENG 396",
+            "ENG 397",
+            "ENG 398"
+        ]
+    },
+    "52763": {
+        "electiveOrAllied": [
+            "AFST 240",
+            "ENG 171",
+            "ENG 263",
+            "ENG 265",
+            "ENG 266",
+            "ENG 268",
+            "ENG 269",
+            "ENG 398"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Writing",
+        "credits": 10.5,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "ENG 149",
+            "ENG 349",
+            "ENG 412",
+            "ENG 141",
+            "ENG 232",
+            "ENG 302",
+            "ENG 312",
+            "ENG 322",
+            "ENG 359",
+            "MUS 110"
+        ],
+        "highLvlCourses": []
+    },
+    "26283": {
+        "electiveOrAllied": [],
+        "Major": false,
+        "Name": "English Writing",
+        "credits": 5,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "ENG 151",
+            "ENG 149",
+            "ENG 349"
+        ],
+        "highLvlCourses": [
+            "ENG 301",
+            "ENG 302",
+            "ENG 311",
+            "ENG 312",
+            "ENG 321",
+            "ENG 322",
+            "ENG 331",
+            "ENG 332",
+            "ENG 341",
+            "ENG 342",
+            "ENG 343"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "32536": {
+        "electiveOrAllied": [
+            "ENG 197",
+            "ENG 251",
+            "ENG 252",
+            "ENG 255",
+            "ENG 261",
+            "ENG 263",
+            "ENG 264",
+            "ENG 265",
+            "ENG 266",
+            "ENG 267",
+            "ENG 268",
+            "ENG 269",
+            "ENG 281",
+            "ENG 282",
+            "ENG 283"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": false,
+        "Name": "Literature",
+        "credits": 5,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "ENG 359",
+            "ENG 368"
+        ],
+        "highLvlCourses": [
+            "ENG 351",
+            "ENG 359",
+            "ENG 360",
+            "ENG 361",
+            "ENG 364",
+            "ENG 367",
+            "ENG 371",
+            "ENG 372",
+            "ENG 373",
+            "ENG 374",
+            "ENG 390",
+            "ENG 391",
+            "ENG 393",
+            "ENG 395",
+            "ENG 396",
+            "ENG 397",
+            "ENG 398"
+        ]
+    },
+    "55333": {
+        "electiveOrAllied": [
+            "COMM 291",
+            "COMM 237",
+            "COMM 236",
+            "COMM 235",
+            "COMM 227",
+            "COMM 225",
+            "COMM 223",
+            "COMM 222",
+            "COMM 215",
+            "COMM 214",
+            "COMM 213",
+            "COMM 211",
+            "COMM 210",
+            "COMM 200"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Communication",
+        "credits": 9,
+        "highLvlCoursesNum": 3,
+        "coreCourses": [
+            "COMM 200",
+            "COMM 215",
+            "COMM 233",
+            "COMM 223",
+            "COMM 450"
+        ],
+        "highLvlCourses": [
+            "COMM 401",
+            "COMM 350",
+            "COMM 339",
+            "COMM 337",
+            "COMM 335",
+            "COMM 328",
+            "COMM 327",
+            "COMM 326",
+            "COMM 325",
+            "COMM 323",
+            "COMM 322",
+            "COMM 319",
+            "COMM 318",
+            "COMM 317",
+            "COMM 316",
+            "COMM 315",
+            "COMM 314",
+            "COMM 311",
+            "COMM 310"
+        ]
+    },
+    "36566": {
+        "electiveOrAllied": [
+            "COMM 310",
+            "COMM 311",
+            "COMM 315",
+            "COMM 316",
+            "COMM 317",
+            "COMM 319"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Theatre",
+        "credits": 10,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "COMM 200",
+            "COMM 111",
+            "COMM 117",
+            "COMM 314",
+            "COMM 001",
+            "COMM 223",
+            "COMM 233",
+            "COMM 215"
+        ],
+        "highLvlCourses": [
+            "COMM 401",
+            "COMM 350",
+            "COMM 339",
+            "COMM 337",
+            "COMM 335",
+            "COMM 328",
+            "COMM 327",
+            "COMM 326",
+            "COMM 325",
+            "COMM 323",
+            "COMM 322",
+            "COMM 319",
+            "COMM 318",
+            "COMM 317",
+            "COMM 316",
+            "COMM 315",
+            "COMM 314",
+            "COMM 311",
+            "COMM 310"
+        ]
+    },
+    "17350": {
+        "electiveOrAllied": [
+            "COMM 235",
+            "COMM 236",
+            "COMM 237",
+            "COMM 332",
+            "COMM 334",
+            "COMM 335",
+            "COMM 337"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Media Studies",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "COMM 233"
+        ],
+        "highLvlCourses": [
+            "COMM 332",
+            "COMM 334",
+            "COMM 335",
+            "COMM 337"
+        ]
+    },
+    "79534": {
+        "electiveOrAllied": [
+            "COMM 123",
+            "COMM 223",
+            "COMM 225",
+            "COMM 227",
+            "COMM 322",
+            "COMM 323",
+            "COMM 325",
+            "COMM 326",
+            "COMM 327",
+            "COMM 328"
+        ],
+        "electiveOrAlliedNum": 3,
+        "Major": false,
+        "Name": "Rhetoric and Interpersonal Communication",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [],
+        "highLvlCourses": [
+            "COMM 322",
+            "COMM 323",
+            "COMM 325",
+            "COMM 326",
+            "COMM 327",
+            "COMM 328"
+        ]
+    },
+    "49448": {
+        "electiveOrAllied": [
+            "COMM 213",
+            "COMM 214",
+            "COMM 314",
+            "COMM 315"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": false,
+        "Name": "Theatre",
+        "credits": 4,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "COMM 117",
+            "COMM 111"
+        ],
+        "highLvlCourses": [
+            "COMM 310",
+            "COMM 311",
+            "COMM 314",
+            "COMM 316",
+            "COMM 317",
+            "COMM 319"
+        ]
+    },
+    "48157": {
+        "electiveOrAllied": [
+            "ARTH 232",
+            "ARTH 233",
+            "ARTH 236",
+            "ARTH 331",
+            "ARTH 332",
+            "ARTH 333",
+            "ARTH 334",
+            "ECON 330",
+            "HIST 252",
+            "HIST 254",
+            "HIST 255",
+            "JAPN 351",
+            "JAPN 352",
+            "JAPN 451",
+            "REL 130",
+            "REL 258",
+            "REL 259"
+        ],
+        "electiveOrAlliedNum": 4,
+        "Major": true,
+        "Name": "Japanese Studies",
+        "credits": 10,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "JAPN 151",
+            "JAPN 152",
+            "JAPN 251",
+            "JAPN 252",
+            "JAPN 351",
+            "JAPN 352",
+            "ARTH 133",
+            "ASIA 480"
+        ],
+        "highLvlCourses": []
+    },
+    "44398": {
+        "Major": false,
+        "Name": "Japanese Studies",
+        "credits": 6,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "JAPN 151",
+            "JAPN 152",
+            "JAPN 251",
+            "JAPN 252",
+            "JAPN 351",
+            "JAPN 352"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "93049": {
+        "electiveOrAllied": [],
+        "Major": true,
+        "Name": "Women's, Gender, and Sexuality Studies",
+        "credits": 10,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "WGSS 140",
+            "WGSS 340",
+            "WGSS 350",
+            "WGSS 440",
+            "WGSS 250",
+            "WGSS 260",
+            "WGSS 342",
+            "WGSS 362",
+            "WGSS 355",
+            "WGSS 332"
+        ],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "13794": {
+        "Major": false,
+        "Name": "Women's, Gender, and Sexuality Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "WGSS 140",
+            "WGSS 340",
+            "WGSS 250",
+            "WGSS 260",
+            "WGSS 342"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "86020": {
+        "electiveOrAllied": [
+            "GFS 201",
+            "GFS 202",
+            "GFS 203",
+            "GFS 204",
+            "GFS 205",
+            "GFS 207"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": true,
+        "Name": "Global French Studies",
+        "credits": 9,
+        "highLvlCoursesNum": 4,
+        "coreCourses": [
+            "GFS 101",
+            "GFS 102",
+            "GFS 420"
+        ],
+        "highLvlCourses": [
+            "GFS 303",
+            "GFS 304",
+            "GFS 306",
+            "GFS 307",
+            "GFS 315",
+            "GFS 319",
+            "GFS 327"
+        ]
+    },
+    "52010": {
+        "electiveOrAllied": [
+            "GFS 201",
+            "GFS 202",
+            "GFS 203",
+            "GFS 204",
+            "GFS 205",
+            "GFS 207"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Global French Studies",
+        "credits": 5,
+        "highLvlCoursesNum": 2,
+        "coreCourses": [
+            "GFS 110"
+        ],
+        "highLvlCourses": [
+            "GFS 303",
+            "GFS 304",
+            "GFS 306",
+            "GFS 307",
+            "GFS 315",
+            "GFS 319",
+            "GFS 327"
+        ]
+    },
+    "70669": {
+        "electiveOrAllied": [
+            "MATH 336",
+            "MATH 341",
+            "MATH 348",
+            "ECON 385",
+            "ECON 393",
+            "ECON 450"
+        ],
+        "electiveOrAlliedNum": 1,
+        "Major": true,
+        "Name": "Actuarial Science",
+        "credits": 10,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "MATH 151",
+            "MATH 152",
+            "ECON 100",
+            "MATH 494",
+            "MATH 331",
+            "MATH 332",
+            "MATH 441",
+            "MATH 442",
+            "ECON 294"
+        ],
+        "highLvlCourses": [
+            "MATH 223",
+            "MATH 247",
+            "MATH 251",
+            "MATH 270"
+        ]
+    },
+    "80562": {
+        "electiveOrAllied": [
+            "MATH 361",
+            "MATH 371",
+            "MATH 331",
+            "MATH 441",
+            "MATH 341",
+            "MATH 348"
+        ],
+        "Major": true,
+        "Name": "Mathematics",
+        "credits": 10,
+        "highLvlCoursesNum": 4,
+        "coreCourses": [
+            "MATH 151",
+            "MATH 152",
+            "MATH 223",
+            "MATH 251",
+            "MATH 270",
+            "MATH 495"
+        ],
+        "highLvlCourses": [
+            "MATH 321",
+            "MATH 323",
+            "MATH 331",
+            "MATH 332",
+            "MATH 336",
+            "MATH 341",
+            "MATH 348",
+            "MATH 361",
+            "MATH 367",
+            "MATH 371",
+            "MATH 382",
+            "MATH 422",
+            "MATH 423",
+            "MATH 441",
+            "MATH 442"
+        ],
+        "electiveOrAlliedNum": 0
+    },
+    "28256": {
+        "electiveOrAllied": [
+            "MATH 261",
+            "MATH 340",
+            "MATH 348",
+            "MATH 441",
+            "MATH 423",
+            "ECON 450"
+        ],
+        "electiveOrAlliedNum": 2,
+        "Major": false,
+        "Name": "Applied Statistics",
+        "credits": 5.0,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "MATH 141",
+            "MATH 151",
+            "MATH 341"
+        ],
+        "highLvlCourses": []
+    },
+    "20832": {
+        "electiveOrAllied": [],
+        "Major": false,
+        "Name": "Data Science",
+        "credits": 5.0,
+        "highLvlCoursesNum": 0,
+        "coreCourses": [
+            "MATH 141",
+            "CSC 370",
+            "ECON 385",
+            "CSC 121",
+            "CSC 122"
+        ],
+        "highLvlCourses": [],
+        "electiveOrAlliedNum": 0
+    },
+    "47620": {
+        "Major": false,
+        "Name": "Mathematics",
+        "credits": 5,
+        "highLvlCoursesNum": 1,
+        "coreCourses": [
+            "MATH 151",
+            "MATH 152",
+            "MATH 223",
+            "MATH 270"
+        ],
+        "electiveOrAllied": [],
+        "highLvlCourses": [
+            "MATH 321",
+            "MATH 323",
+            "MATH 331",
+            "MATH 332",
+            "MATH 336",
+            "MATH 341",
+            "MATH 348",
+            "MATH 361",
+            "MATH 367",
+            "MATH 371",
+            "MATH 382",
+            "MATH 422",
+            "MATH 423",
+            "MATH 441",
+            "MATH 442"
+        ],
+        "electiveOrAlliedNum": 0
+    }
+}

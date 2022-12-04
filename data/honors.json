@@ -1,0 +1,145 @@
+{
+    "Management Fellows": {
+        "lateralEntry": false,
+        "totalCredits": 9.5,
+        "courseBySemester": {
+            "1": [
+                "HONR 185",
+                "ECON 100"
+            ],
+            "2": [
+                "ECON 220"
+            ],
+            "3": [
+                "ECON 350",
+                "PHIL 230"
+            ],
+            "4": [
+                "ECON 280"
+            ],
+            "5": [
+                "HONR 320",
+                "HONR 310"
+            ],
+            "7": [
+                "HONR 400"
+            ]
+        },
+        "url": "https://www.depauw.edu/academics/honors-fellows-programs/management-fellows/",
+        "genEds": []
+    },
+    "Science Research Fellows": {
+        "lateralEntry": true,
+        "totalCredits": 1.0,
+        "courseBySemester": {
+            "3": [
+                "UNIV 180"
+            ],
+            "7": [
+                "UNIV 380"
+            ]
+        },
+        "genEds": [],
+        "url": "https://www.depauw.edu/academics/honors-fellows-programs/science-research-fellows/"
+    },
+    "Environmental Fellows": {
+        "lateralEntry": true,
+        "totalCredits": 8.0,
+        "courseBySemester": {
+            "1": [
+                "ENV 100"
+            ],
+            "2": [
+                "ENV 200"
+            ],
+            "3": [
+                "ENV 200"
+            ],
+            "4": [
+                "ENV 200"
+            ],
+            "5": [
+                "ENV 300"
+            ],
+            "6": [
+                "ENV 300"
+            ],
+            "7": [
+                "ENV 300"
+            ],
+            "8": [
+                "ENV 400"
+            ]
+        },
+        "genEds": [],
+        "url": "https://www.depauw.edu/academics/honors-fellows-programs/environmental-fellows-program/"
+    },
+    "Media Fellows": {
+        "lateralEntry": true,
+        "totalCredits": 8.0,
+        "courseBySemester": {
+            "1": [
+                "HONR 171"
+            ],
+            "2": [
+                "HONR 172"
+            ],
+            "3": [
+                "HONR 300A"
+            ],
+            "4": [
+                "HONR 300B"
+            ],
+            "5": [
+                "HONR 320"
+            ],
+            "6": [
+                "ENV 300"
+            ],
+            "7": [
+                "HONR 401"
+            ],
+            "8": [
+                "HONR 402"
+            ]
+        },
+        "genEds": [],
+        "url": "https://www.depauw.edu/academics/honors-fellows-programs/media-fellows/"
+    },
+    "Honor Scholars": {
+        "lateralEntry": false,
+        "totalCredits": 7.0,
+        "courseBySemester": {
+            "1": [
+                "HONR 101"
+            ],
+            "2": [
+                "HONR 102"
+            ],
+            "3": [
+                "HONR 300A"
+            ],
+            "4": [
+                
+            ],
+            "5": [
+                "HONR 300C"
+            ],
+            "6": [
+                "HONR 300B"
+            ],
+            "7": [
+                "HONR 401"
+            ],
+            "8": [
+                "HONR 402"
+            ]
+        },
+        "genEds": [
+            "AH",
+            "SS",
+            "SM"
+        ],
+        "url": "https://www.depauw.edu/academics/honors-fellows-programs/honor-scholar-program/"
+    }
+}
