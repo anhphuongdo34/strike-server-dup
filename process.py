@@ -1,10 +1,3 @@
-'''
-Assuming that you will eventually have some way to get the data from
-    the DB to put them into your objects and then some how pass them
-    here to process. :( Please someone help meh...
-Remember to return json/dictionary to send it to the front end. Ideally
-    send the same json that will eventually be downloaded as the csv file.
-'''
 from objects.course import Course
 from objects.enums import Competency, Distribution, Language, CoursePlaceholder, Programs
 from objects.honor import Honor
@@ -120,9 +113,10 @@ def addGenEd(genEd, courseLs, international):
 def getDegreeRequirements(reqs, waivedCourses, completedCourses, international):
     '''
     Args:
-        reqs
-        waivedCourses (set[str]): each value is the courseId of the waived courses. Students will not earned genEd from these courses
-        completedCourses (set[Course]): courses completed or credit transfered from other university, will be used to fulfill genEd.
+        - reqs (list[Program]): a list of majors and/or minors the student wishes to take
+        - waivedCourses (set[str]): each value is the courseId of the waived courses. Students will not earned genEd from these courses
+        - completedCourses (set[Course]): courses completed or credit transfered from other university, will be used to fulfill genEd.
+        - international (bool): whether the student is an internation student
     '''
     coursesNeeded = []
     for prog in reqs:
@@ -218,7 +212,6 @@ def getSchedule(semesters):
 def getSemesters(programs, honors, waivedCourses, completedCourses, international, curSemCnt, db=None):
     coursesNeeded, genEd = getDegreeRequirements(programs, waivedCourses, completedCourses, international)
 
-    print("checkpoint 2: got major/minor requirements")
     # add courses from honor program to genEd before finalizing
     honorCourses = []
     for honor in honors:
@@ -240,7 +233,6 @@ def getSemesters(programs, honors, waivedCourses, completedCourses, internationa
 
     # sort coursesNeeded so that lower-level courses will be taken before higher-level one
     sortCoursesByLvl(coursesNeeded)
-    print("checkpoint 3: got the courses from major/minor and missing genEd:", [course.courseId for course in coursesNeeded])
 
     notEnoughCredits = []
 
@@ -248,7 +240,6 @@ def getSemesters(programs, honors, waivedCourses, completedCourses, internationa
 
     # start at current semester, up to 8 semesters total
     for i in range(curSemCnt, 9):
-        print("checkpoint " + str(i-curSemCnt+3) + ": adding semester num " + str(i))
 
         curSemester = Semester(i, set())  
         # first semester freshman year always have 1 seminar course
@@ -284,12 +275,6 @@ def getSemesters(programs, honors, waivedCourses, completedCourses, internationa
         semesters.append(curSemester)
 
     
-    '''
-    TODO:
-        1. check if any semesters is having less than 4.0 (except for those first semester of the 3rd year if has HONR 320)
-        2. check for missing genEd and add the coursePlace holder to those semesters with availability
-    '''
-    print("checkpoint prefinal: adding misc courses to fulfill 31 credits")
     newCourses = []
     newCourse = checkMissingGenEd(genEd)
     while (newCourse.courseId != CoursePlaceholder.ANY):
@@ -298,7 +283,6 @@ def getSemesters(programs, honors, waivedCourses, completedCourses, internationa
 
     for sem in semesters:
         while (newCourses and (sem.getCredits() + newCourses[0].getCredit() <= 4.5) and not sem.internship):
-            print("adding courses", newCourse.courseId)
             sem.addCourses(set([newCourses.pop(0)]))
         
         while (sem.getCredits() + 1 <= 4.5) and not sem.internship:

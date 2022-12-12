@@ -6,13 +6,14 @@ from enum import Enum
 class Course:
     def __init__ (self, courseId, db=None, comp="", distr=[], lang=False) :
         '''
+        Course class constructor
+
         Args:
             courseId (str): the actual course id from DePauw
-            competency (list[str]): a list of competency this course can fulfill, including 'W', 'Q', 'S.'
-            distribution (list[str]): a list of distribution area this course can fulfill
-            alternatives (list[str]): a list of other courseIds that will fulfill the requirements for this course instead
-            credit (list[int]): a list of the numbers of credits that can be earned from this course
-            prerequisites (list[str]): a list of the courseIds
+            db (google.cloud.firestore.Firestore): (optional) the database accessed through API call. default db=None
+            competency (list[str]): (optional) a list of competency this course can fulfill, including 'W', 'Q', 'S.'
+            distribution (list[str]): (optional) a list of distribution area this course can fulfill
+            lang (bool): (optional) whether this course will full fill the language requirements
         '''
         self.courseId = courseId
         self.competency=comp 
@@ -24,6 +25,14 @@ class Course:
         self.__initProgramFromDb__(db)
 
     def __initProgramFromDb__(self, db):
+        '''
+        Private function to populate the fields of the course using information from the database.
+            If the db=None, then the fields is kept as passed in the constructor function.
+
+        Args:
+            - db (google.cloud.firestore.Firestore): database accessed from API call
+        '''
+
         if (db):
             doc_ref = db.collection(u'courses').document(self.courseId)
             doc = doc_ref.get().to_dict()
@@ -39,6 +48,12 @@ class Course:
             
 
     def getCredit(self):
+        '''
+        Public function returning the number of credit earned by taking this course
+
+        Return:
+            - float: the number of credit earned by taking this course
+        '''
         return self.credit
 
     
